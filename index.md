@@ -1,4 +1,4 @@
 # Title
 ## Section
 ### Subsection
-![doodle](https://github.com/tup-sar/images/Sem Título-1.jpg)
+![Image of Yaktocat](https://github.com/tup-sar/images/blob/main/image.png?raw=true)
